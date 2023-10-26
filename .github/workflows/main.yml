@@ -1,6 +1,5 @@
 name: CI
 
-X
 
 on: [push, workflow_dispatch]
 
